@@ -1,0 +1,2 @@
+# cringemc
+GitHub Pages
